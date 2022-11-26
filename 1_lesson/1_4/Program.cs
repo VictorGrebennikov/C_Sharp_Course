@@ -10,4 +10,3 @@ while (counter <= num)
     Console.Write(counter + " " );
     counter++;
 }
-
