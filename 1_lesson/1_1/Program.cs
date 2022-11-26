@@ -14,6 +14,5 @@ if (num1 == num2 * num2)
 }
 
 else
-
     Console.WriteLine("No");
 
