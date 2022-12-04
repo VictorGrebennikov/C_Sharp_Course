@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 2. Напишите программу, которая по заданному номеру четверти, показывает диапазон
+// возможных координат точек в этой четверти (x и y).
 
 void Quarters(string a)
 {
