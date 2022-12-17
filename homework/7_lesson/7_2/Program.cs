@@ -43,7 +43,7 @@ void AverageCountColumn(int[,] arr)
 
         for (int i = 0; i < row_size; i++)
             count_average += arr[i, j];
-        Console.Write($" {count_average}");
+        Console.Write($" {count_average/column_size}");
     }
 }
 
