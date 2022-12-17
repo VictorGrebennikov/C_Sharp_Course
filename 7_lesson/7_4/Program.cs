@@ -27,7 +27,7 @@ int[,] MassNums(int row, int column, int from, int to)
 
     return arr;
 }
-Олег: string FindElem(int[,] arr, int findNum)
+string FindElem(int[,] arr, int findNum)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
         for (int j = 0; j < arr.GetLength(1); j++)
